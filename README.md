@@ -1,7 +1,8 @@
 # IBM_Attrition_Analysis
 
-Employees are the cornerstone of any organization. The organization's success heavily relies on its workforce's caliber. Challenges arising from employee attrition include:
+Employees are the cornerstone of any organization. The organization's success heavily relies on its workforce's caliber.
 
+Challenges arising from employee attrition include:
 1. The financial and time cost of training new hires.
 2. Departure of seasoned professionals.
 3. A dip in productivity.
@@ -10,7 +11,6 @@ Employees are the cornerstone of any organization. The organization's success he
 Before delving into the data, it's essential to define the business objectives clearly. A well-articulated problem statement is key to ensuring the solutions developed are relevant and effective.
 
 Key business questions to consider:
-
 1. Which factors contribute most to employee attrition?
 2. What strategies should the company adopt to retain its staff?
 3. What is the tangible business value provided by the model?
@@ -21,7 +21,6 @@ I began by addressing missing values and redundant features in the dataset to up
 To counteract the data's imbalance, I applied the SMOTE technique, emphasizing oversampling the minority class, and optimized model parameters. Knowing that relying solely on accuracy might be deceptive, I turned to metrics such as Precision, Recall, F-1 Score and AUC ROC for a comprehensive assessment. The finalized model achieved an 87% accuracy and an AUC score of 0.70. Using feature importance, I derived key insights and formulated actionable recommendations to proactively address employee attrition.
 
 Key Insights from the XGBoost Model:
-
 1.OverTime: Frequent overtime may lead to employee burnout and higher attrition.
 2.Total Working Years: Longer working years might indicate career stagnation or a desire for change.
 3.Environmental Satisfaction: Workplace alignment with employee values boosts retention.
@@ -33,7 +32,6 @@ Key Insights from the XGBoost Model:
 9.Other Factors: Departments, travel frequency, education, and marital status can subtly influence retention decisions.
 
 Employee Engagement and Retention Recommendations:
-
 1. OverTime: Implement flexible hours and compensate for overtime. Regular well-being check-ins for those working extra.
 2. Total Working Years: Facilitate career growth or role changes for tenured employees. Hold internal "career exploration" events.
 3. Environment: Seek continuous feedback on workspace. Empower committees for environment enhancement.
