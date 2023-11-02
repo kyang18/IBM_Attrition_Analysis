@@ -41,6 +41,8 @@ Employee Engagement and Retention Recommendations:
 7. Stock Options & Involvement: Review stock plans for competitiveness. Reinforce company vision regularly.
 8. Age & Manager Tenure: Propose mentorship for experienced employees. Rotate teams for diverse managerial experiences.
 9. Other Factors: Balance business travel. Foster inter-departmental collaborations. Host preference-based workshops.
-    
+
+Kindly refer to the 'IBM Attrition Analytics.pptx' presentation.
+
 For the dashboard, please refer to:
 https://public.tableau.com/app/profile/kaixin.yang/viz/HRAttritionAnalysisDashboard_16987962110410/HRAnalyticsDashboard
